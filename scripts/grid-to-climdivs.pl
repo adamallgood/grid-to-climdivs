@@ -86,6 +86,7 @@ use Pod::Usage;
 use CPC::Day;
 use CPC::Env qw(CheckENV RemoveSlash);
 use CPC::SpawnGrads qw(grads);
+use CPC::Regions::ClimateDivisions;
 
 # --- Establish script environment ---
 
